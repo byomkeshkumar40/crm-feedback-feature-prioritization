@@ -60,6 +60,9 @@ Full detail: [`reports/methodology_and_limitations.md`](reports/methodology_and_
 - Feedback volume is not customer prevalence; the 420-account customer master is the only denominator.
 - No revenue, churn or support-cost data; single 12-month window.
 
+## AI Assistance Disclosure
+This project was built with AI assistance (Anthropic's Claude, via Claude Code), which wrote the scripts, synthetic-data generator, dashboard, reports and PRD draft, and executed the tests. The project owner directed the work and is responsible for reviewing it. The AI-generated analysis runs on synthetic data and analyst estimates; treat it as a portfolio demonstration, not validated product research.
+
 ## 14. Installation
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
