@@ -1,0 +1,13 @@
+{
+  "window": "2025-10-01 to 2026-09-30 (12 months)",
+  "accounts": 420,
+  "mapped_records": 1349,
+  "unmapped_themes": [
+    "contact_custom",
+    "int_sso",
+    "rep_forecast",
+    "wf_approval"
+  ],
+  "unmapped_records": 151,
+  "mc_trials": 5000
+}

@@ -1,0 +1,16 @@
+{
+  "total_records": 1500,
+  "unique_customers": 326,
+  "customer_master_accounts": 420,
+  "pct_accounts_with_feedback": 77.6,
+  "pct_negative": 44.1,
+  "pct_high_critical": 25.7,
+  "n_feature_requests": 629,
+  "peak_month": "2026-08",
+  "first_month_records": 112,
+  "last_month_records": 151,
+  "period": [
+    "2025-10-01",
+    "2026-09-30"
+  ]
+}

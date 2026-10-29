@@ -1,0 +1,4 @@
+customer_segment,feedback_records,unique_customers,pct_of_records,pct_of_accounts_reporting,accounts_in_base,records_per_account
+Mid-Market,609,133,40.6,79.2,168,3.62
+SMB,589,140,39.3,76.5,183,3.22
+Enterprise,302,53,20.1,76.8,69,4.38

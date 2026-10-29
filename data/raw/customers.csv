@@ -1,0 +1,421 @@
+customer_id,subscription_plan,customer_segment,seats,industry,signup_date
+CUST-0001,Starter,Mid-Market,7,Financial Services,2023-05-21
+CUST-0002,Starter,SMB,11,Manufacturing,2023-06-23
+CUST-0003,Starter,Mid-Market,6,Financial Services,2023-08-28
+CUST-0004,Starter,SMB,11,Logistics,2025-06-19
+CUST-0005,Starter,SMB,3,Software,2023-03-02
+CUST-0006,Starter,Mid-Market,3,Retail,2025-07-27
+CUST-0007,Professional,SMB,37,Education,2023-05-04
+CUST-0008,Professional,Mid-Market,32,Manufacturing,2023-01-14
+CUST-0009,Professional,Mid-Market,69,Logistics,2024-01-03
+CUST-0010,Professional,SMB,61,Manufacturing,2023-03-15
+CUST-0011,Starter,SMB,9,Logistics,2023-12-11
+CUST-0012,Enterprise,Enterprise,440,Manufacturing,2025-03-01
+CUST-0013,Enterprise,Enterprise,475,Healthcare,2025-04-12
+CUST-0014,Starter,SMB,12,Healthcare,2024-01-19
+CUST-0015,Professional,Mid-Market,32,Manufacturing,2025-05-13
+CUST-0016,Starter,SMB,14,Professional Services,2025-04-11
+CUST-0017,Starter,Mid-Market,7,Software,2024-02-27
+CUST-0018,Professional,SMB,41,Education,2025-06-08
+CUST-0019,Starter,Mid-Market,14,Financial Services,2025-04-11
+CUST-0020,Starter,SMB,7,Software,2024-02-22
+CUST-0021,Professional,Mid-Market,13,Professional Services,2025-05-14
+CUST-0022,Starter,SMB,4,Education,2023-10-22
+CUST-0023,Professional,Mid-Market,77,Manufacturing,2023-07-23
+CUST-0024,Professional,Mid-Market,57,Healthcare,2024-03-25
+CUST-0025,Enterprise,Enterprise,289,Manufacturing,2025-09-04
+CUST-0026,Starter,SMB,14,Education,2024-08-16
+CUST-0027,Professional,SMB,55,Financial Services,2023-04-08
+CUST-0028,Enterprise,Enterprise,225,Logistics,2025-06-22
+CUST-0029,Professional,Enterprise,57,Healthcare,2023-07-01
+CUST-0030,Professional,Mid-Market,47,Logistics,2025-06-24
+CUST-0031,Enterprise,Enterprise,464,Software,2024-08-07
+CUST-0032,Starter,SMB,10,Professional Services,2025-06-27
+CUST-0033,Starter,Enterprise,6,Software,2023-03-24
+CUST-0034,Professional,Mid-Market,47,Software,2024-09-20
+CUST-0035,Professional,Enterprise,11,Logistics,2024-05-07
+CUST-0036,Starter,SMB,10,Retail,2025-01-06
+CUST-0037,Enterprise,Enterprise,105,Financial Services,2023-03-17
+CUST-0038,Starter,SMB,3,Retail,2025-09-24
+CUST-0039,Professional,Mid-Market,78,Education,2023-06-07
+CUST-0040,Professional,SMB,10,Manufacturing,2023-02-23
+CUST-0041,Starter,Mid-Market,8,Logistics,2023-11-20
+CUST-0042,Professional,Mid-Market,56,Professional Services,2023-09-28
+CUST-0043,Starter,SMB,10,Professional Services,2024-02-12
+CUST-0044,Enterprise,Enterprise,212,Software,2025-01-21
+CUST-0045,Professional,Mid-Market,50,Retail,2024-05-23
+CUST-0046,Professional,Mid-Market,73,Manufacturing,2024-02-10
+CUST-0047,Starter,SMB,10,Healthcare,2025-08-05
+CUST-0048,Starter,SMB,6,Logistics,2023-02-28
+CUST-0049,Starter,SMB,4,Retail,2023-02-10
+CUST-0050,Starter,Mid-Market,11,Retail,2024-07-30
+CUST-0051,Enterprise,Enterprise,553,Retail,2024-09-04
+CUST-0052,Starter,Mid-Market,8,Manufacturing,2023-02-03
+CUST-0053,Professional,Mid-Market,76,Healthcare,2023-05-26
+CUST-0054,Enterprise,Enterprise,386,Financial Services,2024-08-24
+CUST-0055,Professional,Mid-Market,49,Retail,2024-06-20
+CUST-0056,Professional,Enterprise,78,Professional Services,2025-08-17
+CUST-0057,Professional,SMB,40,Professional Services,2023-03-24
+CUST-0058,Professional,Enterprise,15,Education,2024-11-20
+CUST-0059,Starter,SMB,10,Software,2025-01-05
+CUST-0060,Starter,SMB,14,Healthcare,2025-02-25
+CUST-0061,Professional,Mid-Market,52,Financial Services,2024-12-14
+CUST-0062,Professional,Mid-Market,10,Software,2023-02-04
+CUST-0063,Starter,SMB,13,Logistics,2023-02-10
+CUST-0064,Professional,Mid-Market,74,Education,2024-01-27
+CUST-0065,Professional,Mid-Market,42,Manufacturing,2024-06-30
+CUST-0066,Starter,SMB,5,Software,2024-08-15
+CUST-0067,Professional,Mid-Market,63,Software,2024-06-28
+CUST-0068,Starter,SMB,10,Retail,2024-01-25
+CUST-0069,Starter,Mid-Market,4,Education,2023-04-19
+CUST-0070,Professional,SMB,49,Education,2023-08-17
+CUST-0071,Professional,Mid-Market,29,Financial Services,2023-01-26
+CUST-0072,Starter,SMB,11,Retail,2023-08-31
+CUST-0073,Starter,SMB,7,Financial Services,2023-03-15
+CUST-0074,Enterprise,Mid-Market,326,Retail,2024-03-13
+CUST-0075,Professional,Enterprise,32,Retail,2023-04-12
+CUST-0076,Starter,SMB,12,Healthcare,2024-01-02
+CUST-0077,Enterprise,Mid-Market,124,Education,2024-01-14
+CUST-0078,Professional,SMB,35,Logistics,2025-08-11
+CUST-0079,Starter,SMB,8,Financial Services,2025-06-29
+CUST-0080,Professional,Mid-Market,11,Professional Services,2025-04-12
+CUST-0081,Starter,SMB,10,Manufacturing,2023-04-28
+CUST-0082,Starter,SMB,3,Financial Services,2025-03-28
+CUST-0083,Starter,SMB,6,Software,2024-04-21
+CUST-0084,Enterprise,Enterprise,117,Software,2023-05-07
+CUST-0085,Professional,SMB,61,Manufacturing,2025-09-30
+CUST-0086,Enterprise,Enterprise,324,Logistics,2023-07-11
+CUST-0087,Professional,SMB,22,Professional Services,2023-11-20
+CUST-0088,Starter,SMB,10,Software,2024-05-07
+CUST-0089,Starter,SMB,4,Logistics,2024-01-26
+CUST-0090,Professional,SMB,21,Financial Services,2024-04-12
+CUST-0091,Professional,SMB,15,Financial Services,2023-10-01
+CUST-0092,Professional,Mid-Market,10,Software,2025-05-15
+CUST-0093,Professional,SMB,17,Education,2023-11-19
+CUST-0094,Professional,SMB,17,Software,2024-02-14
+CUST-0095,Professional,SMB,30,Professional Services,2023-01-29
+CUST-0096,Enterprise,Enterprise,336,Manufacturing,2024-08-10
+CUST-0097,Professional,Enterprise,27,Manufacturing,2024-11-04
+CUST-0098,Professional,Enterprise,41,Healthcare,2023-10-09
+CUST-0099,Starter,Mid-Market,11,Manufacturing,2025-09-12
+CUST-0100,Professional,Mid-Market,20,Manufacturing,2024-07-16
+CUST-0101,Enterprise,Enterprise,370,Healthcare,2023-08-24
+CUST-0102,Professional,Mid-Market,19,Healthcare,2024-07-25
+CUST-0103,Professional,Mid-Market,10,Retail,2023-05-30
+CUST-0104,Professional,Mid-Market,46,Healthcare,2023-08-22
+CUST-0105,Professional,Mid-Market,72,Retail,2023-03-13
+CUST-0106,Professional,Mid-Market,22,Software,2023-01-20
+CUST-0107,Starter,SMB,9,Manufacturing,2024-03-18
+CUST-0108,Enterprise,Mid-Market,114,Software,2023-10-11
+CUST-0109,Enterprise,Enterprise,516,Logistics,2023-06-25
+CUST-0110,Starter,SMB,4,Professional Services,2023-01-23
+CUST-0111,Professional,Enterprise,40,Software,2023-01-11
+CUST-0112,Starter,SMB,6,Software,2023-07-31
+CUST-0113,Professional,Mid-Market,10,Education,2023-07-14
+CUST-0114,Professional,Mid-Market,43,Retail,2024-01-23
+CUST-0115,Starter,SMB,6,Software,2023-05-11
+CUST-0116,Professional,SMB,67,Financial Services,2023-05-18
+CUST-0117,Professional,Mid-Market,37,Logistics,2023-04-13
+CUST-0118,Professional,SMB,47,Manufacturing,2024-01-27
+CUST-0119,Professional,Mid-Market,67,Retail,2025-02-08
+CUST-0120,Starter,Mid-Market,7,Financial Services,2023-03-06
+CUST-0121,Starter,SMB,10,Financial Services,2025-07-10
+CUST-0122,Starter,SMB,11,Manufacturing,2025-06-24
+CUST-0123,Professional,Mid-Market,55,Retail,2024-10-09
+CUST-0124,Starter,SMB,7,Professional Services,2023-07-04
+CUST-0125,Starter,SMB,14,Professional Services,2023-02-24
+CUST-0126,Professional,Mid-Market,30,Financial Services,2025-06-16
+CUST-0127,Enterprise,Enterprise,522,Financial Services,2023-08-18
+CUST-0128,Professional,SMB,76,Manufacturing,2023-11-10
+CUST-0129,Professional,Enterprise,51,Education,2023-03-12
+CUST-0130,Professional,SMB,16,Manufacturing,2024-04-15
+CUST-0131,Starter,SMB,3,Logistics,2024-03-25
+CUST-0132,Starter,SMB,11,Manufacturing,2025-09-08
+CUST-0133,Professional,Mid-Market,39,Manufacturing,2025-06-23
+CUST-0134,Starter,Mid-Market,8,Software,2023-06-22
+CUST-0135,Starter,Mid-Market,12,Manufacturing,2025-03-12
+CUST-0136,Starter,SMB,4,Manufacturing,2023-06-15
+CUST-0137,Starter,SMB,14,Financial Services,2024-08-02
+CUST-0138,Starter,SMB,4,Logistics,2025-04-04
+CUST-0139,Professional,Mid-Market,60,Manufacturing,2024-10-12
+CUST-0140,Professional,Mid-Market,59,Education,2024-04-28
+CUST-0141,Enterprise,Enterprise,572,Professional Services,2024-06-24
+CUST-0142,Professional,Enterprise,34,Education,2025-03-12
+CUST-0143,Starter,SMB,9,Software,2024-02-22
+CUST-0144,Enterprise,Mid-Market,123,Healthcare,2024-06-08
+CUST-0145,Professional,SMB,42,Education,2024-02-19
+CUST-0146,Starter,SMB,9,Retail,2024-09-13
+CUST-0147,Enterprise,Enterprise,72,Professional Services,2023-08-22
+CUST-0148,Professional,Mid-Market,38,Financial Services,2024-03-15
+CUST-0149,Professional,Mid-Market,43,Financial Services,2024-12-01
+CUST-0150,Starter,SMB,9,Software,2025-08-05
+CUST-0151,Starter,SMB,11,Software,2024-09-11
+CUST-0152,Enterprise,Enterprise,437,Professional Services,2024-02-22
+CUST-0153,Enterprise,Enterprise,521,Software,2023-04-18
+CUST-0154,Professional,SMB,65,Healthcare,2024-07-18
+CUST-0155,Professional,Mid-Market,46,Financial Services,2025-05-27
+CUST-0156,Starter,SMB,11,Education,2025-02-14
+CUST-0157,Starter,SMB,13,Financial Services,2025-06-18
+CUST-0158,Starter,SMB,9,Professional Services,2025-02-01
+CUST-0159,Starter,SMB,4,Professional Services,2025-03-16
+CUST-0160,Starter,SMB,4,Financial Services,2025-05-09
+CUST-0161,Enterprise,Enterprise,66,Manufacturing,2025-09-14
+CUST-0162,Professional,Mid-Market,39,Healthcare,2024-12-05
+CUST-0163,Enterprise,Enterprise,329,Professional Services,2023-02-14
+CUST-0164,Starter,SMB,6,Manufacturing,2025-06-02
+CUST-0165,Enterprise,Mid-Market,530,Healthcare,2023-11-29
+CUST-0166,Starter,SMB,10,Healthcare,2025-02-26
+CUST-0167,Starter,SMB,13,Software,2023-10-09
+CUST-0168,Professional,Mid-Market,54,Education,2023-06-01
+CUST-0169,Professional,Mid-Market,61,Professional Services,2025-09-07
+CUST-0170,Starter,SMB,10,Professional Services,2025-05-18
+CUST-0171,Professional,Mid-Market,14,Logistics,2025-09-20
+CUST-0172,Enterprise,Mid-Market,383,Software,2024-08-11
+CUST-0173,Starter,SMB,13,Education,2023-05-20
+CUST-0174,Professional,Mid-Market,56,Healthcare,2023-06-25
+CUST-0175,Professional,Mid-Market,55,Retail,2023-11-29
+CUST-0176,Starter,SMB,9,Retail,2023-10-31
+CUST-0177,Starter,SMB,9,Logistics,2025-01-19
+CUST-0178,Starter,SMB,6,Education,2024-05-18
+CUST-0179,Enterprise,Enterprise,131,Education,2025-09-19
+CUST-0180,Enterprise,Enterprise,374,Professional Services,2025-04-19
+CUST-0181,Starter,SMB,11,Healthcare,2023-07-08
+CUST-0182,Professional,Mid-Market,50,Logistics,2024-11-07
+CUST-0183,Professional,SMB,40,Manufacturing,2023-03-28
+CUST-0184,Professional,SMB,71,Healthcare,2023-03-28
+CUST-0185,Professional,Mid-Market,70,Software,2023-02-12
+CUST-0186,Professional,SMB,39,Manufacturing,2024-08-01
+CUST-0187,Enterprise,Mid-Market,292,Education,2023-04-28
+CUST-0188,Enterprise,Mid-Market,431,Logistics,2025-06-23
+CUST-0189,Starter,SMB,9,Healthcare,2023-01-04
+CUST-0190,Professional,Mid-Market,79,Software,2025-01-28
+CUST-0191,Starter,SMB,8,Retail,2024-02-18
+CUST-0192,Starter,SMB,12,Retail,2025-01-28
+CUST-0193,Starter,SMB,7,Education,2024-09-28
+CUST-0194,Starter,SMB,8,Logistics,2023-03-31
+CUST-0195,Professional,SMB,17,Education,2023-07-09
+CUST-0196,Enterprise,Enterprise,159,Logistics,2024-11-15
+CUST-0197,Professional,Mid-Market,61,Education,2024-11-04
+CUST-0198,Starter,SMB,5,Manufacturing,2024-01-23
+CUST-0199,Professional,Mid-Market,76,Financial Services,2025-02-27
+CUST-0200,Professional,Mid-Market,67,Healthcare,2023-11-26
+CUST-0201,Starter,SMB,8,Education,2024-07-25
+CUST-0202,Enterprise,Enterprise,445,Education,2023-12-12
+CUST-0203,Professional,Mid-Market,39,Manufacturing,2023-12-11
+CUST-0204,Enterprise,Enterprise,53,Healthcare,2025-01-23
+CUST-0205,Enterprise,Enterprise,556,Retail,2023-06-19
+CUST-0206,Professional,Mid-Market,38,Healthcare,2024-06-24
+CUST-0207,Professional,Mid-Market,56,Healthcare,2025-02-01
+CUST-0208,Starter,SMB,3,Healthcare,2024-07-19
+CUST-0209,Professional,Enterprise,29,Healthcare,2025-01-23
+CUST-0210,Professional,Mid-Market,53,Healthcare,2025-06-16
+CUST-0211,Enterprise,Mid-Market,534,Healthcare,2024-06-15
+CUST-0212,Professional,Mid-Market,29,Financial Services,2024-07-01
+CUST-0213,Professional,Mid-Market,19,Education,2024-05-06
+CUST-0214,Starter,SMB,13,Healthcare,2024-12-02
+CUST-0215,Starter,SMB,12,Financial Services,2023-04-13
+CUST-0216,Starter,Mid-Market,12,Software,2025-01-28
+CUST-0217,Starter,Mid-Market,12,Retail,2023-09-27
+CUST-0218,Professional,SMB,63,Software,2023-09-06
+CUST-0219,Starter,SMB,10,Software,2023-02-27
+CUST-0220,Professional,Mid-Market,30,Financial Services,2025-06-05
+CUST-0221,Professional,SMB,47,Logistics,2025-01-27
+CUST-0222,Professional,Mid-Market,19,Manufacturing,2023-02-19
+CUST-0223,Starter,SMB,14,Retail,2024-07-25
+CUST-0224,Enterprise,Mid-Market,277,Healthcare,2025-02-22
+CUST-0225,Professional,Mid-Market,10,Manufacturing,2023-10-26
+CUST-0226,Professional,Enterprise,67,Retail,2024-06-01
+CUST-0227,Enterprise,Enterprise,557,Healthcare,2023-11-05
+CUST-0228,Starter,Mid-Market,13,Education,2023-12-02
+CUST-0229,Starter,Mid-Market,4,Financial Services,2023-09-24
+CUST-0230,Enterprise,Mid-Market,560,Professional Services,2024-03-15
+CUST-0231,Enterprise,Enterprise,505,Financial Services,2025-09-26
+CUST-0232,Enterprise,Mid-Market,63,Manufacturing,2023-12-14
+CUST-0233,Starter,SMB,10,Financial Services,2025-03-30
+CUST-0234,Enterprise,SMB,450,Education,2023-01-23
+CUST-0235,Enterprise,Mid-Market,394,Logistics,2025-04-08
+CUST-0236,Starter,SMB,3,Logistics,2024-06-24
+CUST-0237,Enterprise,Mid-Market,415,Software,2023-10-12
+CUST-0238,Starter,SMB,10,Education,2023-04-22
+CUST-0239,Professional,Mid-Market,65,Manufacturing,2024-02-03
+CUST-0240,Starter,SMB,5,Manufacturing,2023-05-05
+CUST-0241,Professional,SMB,23,Education,2025-09-21
+CUST-0242,Starter,SMB,9,Financial Services,2025-04-25
+CUST-0243,Professional,SMB,29,Retail,2025-04-01
+CUST-0244,Professional,Mid-Market,27,Professional Services,2023-11-12
+CUST-0245,Starter,Mid-Market,3,Healthcare,2024-05-27
+CUST-0246,Professional,Mid-Market,52,Software,2024-05-18
+CUST-0247,Professional,Mid-Market,71,Manufacturing,2023-04-04
+CUST-0248,Starter,SMB,12,Manufacturing,2023-01-06
+CUST-0249,Starter,SMB,6,Logistics,2024-12-15
+CUST-0250,Professional,Mid-Market,71,Education,2023-12-28
+CUST-0251,Professional,Mid-Market,42,Education,2023-10-25
+CUST-0252,Starter,SMB,6,Healthcare,2025-04-25
+CUST-0253,Professional,SMB,66,Professional Services,2024-05-04
+CUST-0254,Professional,SMB,61,Logistics,2023-08-25
+CUST-0255,Professional,Mid-Market,59,Software,2024-05-06
+CUST-0256,Starter,SMB,12,Education,2025-05-17
+CUST-0257,Enterprise,Mid-Market,253,Retail,2025-02-26
+CUST-0258,Professional,Mid-Market,62,Financial Services,2024-09-16
+CUST-0259,Starter,SMB,12,Healthcare,2024-12-01
+CUST-0260,Starter,SMB,13,Professional Services,2023-03-11
+CUST-0261,Professional,Enterprise,20,Software,2025-02-28
+CUST-0262,Professional,Mid-Market,68,Professional Services,2023-07-20
+CUST-0263,Professional,Mid-Market,74,Financial Services,2024-06-16
+CUST-0264,Professional,Mid-Market,79,Logistics,2024-08-16
+CUST-0265,Starter,SMB,7,Logistics,2024-11-02
+CUST-0266,Starter,Mid-Market,8,Professional Services,2023-01-11
+CUST-0267,Professional,Mid-Market,40,Logistics,2023-04-03
+CUST-0268,Professional,Enterprise,77,Education,2023-01-20
+CUST-0269,Professional,SMB,42,Financial Services,2025-07-04
+CUST-0270,Starter,SMB,13,Healthcare,2025-07-06
+CUST-0271,Professional,Mid-Market,33,Healthcare,2024-05-04
+CUST-0272,Enterprise,Enterprise,406,Manufacturing,2024-10-20
+CUST-0273,Professional,Mid-Market,48,Financial Services,2023-08-09
+CUST-0274,Starter,SMB,7,Education,2023-02-17
+CUST-0275,Professional,Mid-Market,29,Logistics,2023-08-05
+CUST-0276,Professional,SMB,31,Software,2024-05-29
+CUST-0277,Professional,Mid-Market,62,Logistics,2023-03-31
+CUST-0278,Professional,Mid-Market,38,Professional Services,2025-04-22
+CUST-0279,Starter,SMB,6,Retail,2023-06-27
+CUST-0280,Professional,Mid-Market,70,Retail,2023-09-03
+CUST-0281,Professional,Mid-Market,47,Healthcare,2023-02-16
+CUST-0282,Starter,SMB,6,Healthcare,2023-06-25
+CUST-0283,Professional,Enterprise,34,Financial Services,2023-06-21
+CUST-0284,Enterprise,Enterprise,186,Retail,2023-05-15
+CUST-0285,Professional,Mid-Market,49,Healthcare,2023-12-01
+CUST-0286,Enterprise,Enterprise,599,Professional Services,2024-12-24
+CUST-0287,Professional,Mid-Market,74,Healthcare,2023-07-25
+CUST-0288,Professional,Mid-Market,26,Retail,2024-07-13
+CUST-0289,Professional,Mid-Market,33,Financial Services,2023-04-18
+CUST-0290,Starter,SMB,14,Logistics,2025-09-12
+CUST-0291,Starter,SMB,4,Education,2025-04-23
+CUST-0292,Professional,Mid-Market,59,Software,2023-06-05
+CUST-0293,Enterprise,Enterprise,333,Software,2024-04-27
+CUST-0294,Starter,SMB,4,Financial Services,2023-08-21
+CUST-0295,Starter,SMB,11,Professional Services,2024-03-14
+CUST-0296,Professional,SMB,79,Manufacturing,2024-01-26
+CUST-0297,Professional,Mid-Market,73,Healthcare,2023-12-10
+CUST-0298,Professional,SMB,17,Education,2023-07-02
+CUST-0299,Professional,Mid-Market,57,Logistics,2024-03-06
+CUST-0300,Professional,Mid-Market,61,Retail,2025-06-22
+CUST-0301,Starter,SMB,11,Retail,2025-06-21
+CUST-0302,Enterprise,Mid-Market,424,Logistics,2025-05-05
+CUST-0303,Professional,Enterprise,61,Retail,2023-07-08
+CUST-0304,Professional,Mid-Market,36,Software,2024-04-29
+CUST-0305,Professional,SMB,45,Logistics,2024-01-16
+CUST-0306,Professional,SMB,52,Logistics,2025-08-30
+CUST-0307,Starter,SMB,11,Logistics,2024-09-09
+CUST-0308,Professional,SMB,75,Logistics,2025-06-29
+CUST-0309,Starter,SMB,7,Retail,2023-01-25
+CUST-0310,Starter,SMB,14,Logistics,2023-12-01
+CUST-0311,Starter,SMB,7,Logistics,2024-06-18
+CUST-0312,Professional,Mid-Market,75,Retail,2024-02-22
+CUST-0313,Starter,SMB,6,Professional Services,2024-01-15
+CUST-0314,Enterprise,Mid-Market,267,Professional Services,2024-09-02
+CUST-0315,Professional,SMB,63,Education,2025-01-15
+CUST-0316,Starter,Mid-Market,9,Professional Services,2023-01-26
+CUST-0317,Starter,SMB,5,Healthcare,2025-04-11
+CUST-0318,Starter,SMB,9,Retail,2024-06-24
+CUST-0319,Starter,SMB,5,Logistics,2025-06-21
+CUST-0320,Professional,Mid-Market,50,Retail,2024-12-05
+CUST-0321,Enterprise,Enterprise,295,Education,2024-11-09
+CUST-0322,Starter,SMB,12,Retail,2024-08-30
+CUST-0323,Enterprise,Enterprise,445,Manufacturing,2024-01-24
+CUST-0324,Starter,SMB,5,Software,2025-06-11
+CUST-0325,Starter,SMB,8,Retail,2023-09-28
+CUST-0326,Starter,SMB,13,Logistics,2024-11-14
+CUST-0327,Professional,Mid-Market,51,Retail,2023-07-25
+CUST-0328,Starter,SMB,12,Healthcare,2023-02-03
+CUST-0329,Enterprise,Enterprise,283,Professional Services,2023-02-07
+CUST-0330,Professional,Mid-Market,66,Software,2023-02-03
+CUST-0331,Enterprise,Enterprise,487,Logistics,2025-08-26
+CUST-0332,Starter,SMB,10,Manufacturing,2023-01-17
+CUST-0333,Professional,Mid-Market,61,Software,2024-02-25
+CUST-0334,Enterprise,SMB,243,Healthcare,2025-01-14
+CUST-0335,Professional,Mid-Market,77,Financial Services,2024-07-27
+CUST-0336,Professional,Mid-Market,36,Logistics,2023-08-07
+CUST-0337,Starter,SMB,11,Education,2023-10-04
+CUST-0338,Professional,Mid-Market,23,Software,2023-02-07
+CUST-0339,Professional,Mid-Market,65,Software,2023-06-03
+CUST-0340,Professional,Mid-Market,26,Software,2025-08-11
+CUST-0341,Starter,SMB,3,Manufacturing,2024-02-07
+CUST-0342,Enterprise,Enterprise,180,Software,2023-10-17
+CUST-0343,Starter,SMB,11,Healthcare,2025-07-02
+CUST-0344,Starter,Mid-Market,7,Healthcare,2023-07-30
+CUST-0345,Enterprise,Enterprise,577,Professional Services,2024-03-31
+CUST-0346,Starter,SMB,9,Logistics,2023-10-19
+CUST-0347,Starter,SMB,11,Healthcare,2024-04-16
+CUST-0348,Professional,SMB,73,Healthcare,2023-05-26
+CUST-0349,Professional,Mid-Market,19,Healthcare,2024-01-18
+CUST-0350,Starter,SMB,4,Financial Services,2024-09-30
+CUST-0351,Enterprise,Enterprise,191,Healthcare,2023-12-01
+CUST-0352,Starter,SMB,6,Software,2023-12-26
+CUST-0353,Starter,SMB,6,Manufacturing,2025-09-03
+CUST-0354,Enterprise,Mid-Market,280,Manufacturing,2023-06-19
+CUST-0355,Starter,Mid-Market,12,Education,2023-02-12
+CUST-0356,Professional,Mid-Market,62,Retail,2023-02-17
+CUST-0357,Starter,SMB,7,Logistics,2025-07-24
+CUST-0358,Starter,Mid-Market,5,Education,2025-01-06
+CUST-0359,Enterprise,Enterprise,216,Manufacturing,2025-07-08
+CUST-0360,Enterprise,Enterprise,432,Professional Services,2025-01-05
+CUST-0361,Professional,Mid-Market,67,Financial Services,2024-05-17
+CUST-0362,Professional,SMB,17,Healthcare,2025-06-09
+CUST-0363,Professional,Mid-Market,51,Software,2025-06-24
+CUST-0364,Professional,Mid-Market,65,Manufacturing,2023-05-12
+CUST-0365,Starter,SMB,8,Professional Services,2025-06-22
+CUST-0366,Professional,Mid-Market,60,Manufacturing,2025-08-26
+CUST-0367,Enterprise,Mid-Market,119,Financial Services,2023-02-24
+CUST-0368,Starter,SMB,4,Manufacturing,2023-02-09
+CUST-0369,Professional,Mid-Market,70,Financial Services,2024-05-17
+CUST-0370,Starter,SMB,11,Education,2024-12-10
+CUST-0371,Enterprise,Enterprise,425,Logistics,2024-09-23
+CUST-0372,Starter,SMB,8,Education,2025-02-01
+CUST-0373,Starter,SMB,13,Education,2023-10-18
+CUST-0374,Starter,SMB,9,Healthcare,2025-08-02
+CUST-0375,Professional,Mid-Market,49,Manufacturing,2025-03-04
+CUST-0376,Professional,Enterprise,52,Retail,2024-06-28
+CUST-0377,Enterprise,Mid-Market,546,Financial Services,2024-01-17
+CUST-0378,Starter,SMB,13,Manufacturing,2025-08-03
+CUST-0379,Starter,SMB,12,Healthcare,2023-06-21
+CUST-0380,Professional,Mid-Market,17,Education,2023-01-13
+CUST-0381,Professional,Mid-Market,10,Professional Services,2024-10-24
+CUST-0382,Starter,SMB,7,Software,2024-06-15
+CUST-0383,Professional,Mid-Market,35,Manufacturing,2023-04-06
+CUST-0384,Enterprise,Mid-Market,490,Software,2025-08-03
+CUST-0385,Starter,SMB,14,Financial Services,2023-11-23
+CUST-0386,Starter,Mid-Market,4,Education,2025-09-18
+CUST-0387,Starter,SMB,4,Professional Services,2023-09-14
+CUST-0388,Starter,Mid-Market,8,Education,2023-08-06
+CUST-0389,Starter,Mid-Market,3,Financial Services,2024-04-18
+CUST-0390,Professional,Mid-Market,31,Professional Services,2024-09-01
+CUST-0391,Enterprise,Mid-Market,435,Professional Services,2023-01-05
+CUST-0392,Professional,Mid-Market,29,Education,2023-08-30
+CUST-0393,Enterprise,Enterprise,140,Manufacturing,2025-07-08
+CUST-0394,Enterprise,Enterprise,116,Retail,2023-03-26
+CUST-0395,Enterprise,Mid-Market,577,Healthcare,2025-03-03
+CUST-0396,Starter,SMB,3,Manufacturing,2023-07-24
+CUST-0397,Starter,Mid-Market,6,Education,2023-06-05
+CUST-0398,Enterprise,Enterprise,281,Professional Services,2024-07-10
+CUST-0399,Enterprise,Enterprise,281,Education,2023-08-24
+CUST-0400,Starter,SMB,13,Retail,2024-09-27
+CUST-0401,Professional,SMB,15,Professional Services,2023-03-07
+CUST-0402,Professional,Mid-Market,50,Software,2024-07-11
+CUST-0403,Starter,SMB,7,Healthcare,2023-01-31
+CUST-0404,Starter,SMB,13,Education,2024-11-17
+CUST-0405,Starter,SMB,5,Logistics,2024-10-25
+CUST-0406,Professional,Mid-Market,16,Retail,2024-03-21
+CUST-0407,Professional,Enterprise,69,Software,2023-07-03
+CUST-0408,Starter,SMB,11,Software,2024-02-20
+CUST-0409,Starter,SMB,10,Education,2025-09-18
+CUST-0410,Professional,Enterprise,30,Logistics,2024-09-17
+CUST-0411,Starter,SMB,11,Financial Services,2024-10-06
+CUST-0412,Professional,Mid-Market,68,Professional Services,2025-05-08
+CUST-0413,Professional,SMB,14,Manufacturing,2023-07-02
+CUST-0414,Professional,Enterprise,24,Retail,2024-04-17
+CUST-0415,Enterprise,Mid-Market,68,Manufacturing,2024-01-17
+CUST-0416,Professional,Mid-Market,77,Healthcare,2024-10-10
+CUST-0417,Starter,SMB,5,Manufacturing,2025-08-30
+CUST-0418,Professional,Mid-Market,65,Software,2023-09-03
+CUST-0419,Starter,SMB,12,Logistics,2024-09-26
+CUST-0420,Enterprise,Enterprise,474,Logistics,2024-07-09

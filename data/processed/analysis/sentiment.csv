@@ -1,0 +1,4 @@
+sentiment,feedback_records,unique_customers,pct_of_records
+Negative,662,257,44.1
+Neutral,612,241,40.8
+Positive,226,140,15.1

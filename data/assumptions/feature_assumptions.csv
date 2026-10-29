@@ -1,0 +1,13 @@
+feature_id,feature_name,customer_problem,themes,effort_low_pm,effort_base_pm,effort_high_pm,tech_risk_penalty,effort_rationale
+F01,Duplicate Detection & Bulk Merge,"Duplicate leads and contacts pile up from imports and web forms; teams clean them by hand",lead_dup|contact_dedupe,3,4,6,0,"Matching engine + merge UI + history-preserving merge; ~2 engineers for 2 months (analyst estimate)"
+F02,Lead Scoring & Smart Routing,"Reps prioritise leads by gut feel and routing rules are inflexible",lead_score|lead_assign,3.5,5,8,0.1,"Rules-based scoring first, routing builder reuse; model quality is uncertain (analyst estimate)"
+F03,Reliable CSV Import with Validation,"Contact imports fail or scramble fields with no row-level error detail",contact_import,1.5,2,3,0,"Pre-import validation, field-mapping memory, row-level error report (analyst estimate)"
+F04,Workflow Run Monitoring & Failure Alerts,"Automations fail silently or misfire and customers learn about it late",wf_fail,2,2.5,4,0,"Run log UI, failure alerts, retry controls on existing engine (analyst estimate)"
+F05,Guided Workflow Builder & Templates,"Workflow builder is hard to follow and customers rebuild common flows from scratch",wf_builder|wf_templates,4,5,8,0,"Builder UX rework plus 10-15 templates; design-heavy (analyst estimate)"
+F06,Custom & Scheduled Reports with Reliable Export,"Managers cannot build their own reports and exports truncate or mismatch",rep_custom|rep_export,4,6,9,0.1,"Report builder is a large scope; export fix is small (analyst estimate)"
+F07,Performance Tuning for Dashboards & Lists,"Dashboards, lead boards, search and pages are slow with large data",rep_slow|lead_slow|contact_search|ui_perf,3,5,8,0.1,"Profiling-driven; root causes unknown until investigated (analyst estimate)"
+F08,Email & Calendar Sync Reliability,"Gmail/Outlook sync disconnects and drops activities",int_email,2,3,5,0.1,"Token refresh, health indicator, backfill job; third-party API quirks (analyst estimate)"
+F09,API & Webhook Reliability Console,"Rate limits and failed webhooks are hard to debug with no retry or logs",int_api,2,2.5,4,0,"Delivery log, retries, rate-limit headers and docs (analyst estimate)"
+F10,"Native Integrations (Accounting, Marketing, Slack)","Customers maintain Zapier chains and re-enter data across systems",int_native,5,8,12,0.1,"Three connectors with partner reviews (analyst estimate)"
+F11,Mobile App,"Field reps cannot update deals or log activity away from a desk",ui_mobile,8,12,18,0.1,"New client, offline sync, app-store release; largest scope (analyst estimate)"
+F12,Bulk Actions & Simplified Navigation,"Records are changed one at a time and navigation is cluttered",ui_bulk|ui_nav,2,3,5,0,"Multi-select framework plus IA changes (analyst estimate)"

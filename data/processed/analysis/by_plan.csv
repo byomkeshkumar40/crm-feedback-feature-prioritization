@@ -1,0 +1,4 @@
+subscription_plan,feedback_records,unique_customers,pct_of_records,pct_of_accounts_reporting,accounts_in_base,records_per_account
+Professional,651,145,43.4,80.6,180,3.62
+Starter,471,122,31.4,73.5,166,2.84
+Enterprise,378,59,25.2,79.7,74,5.11

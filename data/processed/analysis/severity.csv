@@ -1,0 +1,5 @@
+severity,feedback_records,unique_customers,pct_of_records
+Low,595,248,39.7
+Medium,519,239,34.6
+High,294,170,19.6
+Critical,92,75,6.1

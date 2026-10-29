@@ -1,0 +1,4 @@
+customer_segment,API limits and webhook failures,Approval steps in workflows,Automated lead scoring,Broken report exports,Bulk actions,Bulk contact merge,Cluttered navigation,Confusing workflow builder,Custom and scheduled reports,Custom fields and hierarchy,Duplicate leads created,Email and calendar sync drops,Laggy pages,Lead routing is inflexible,Mobile app,Native integrations,SSO and provisioning,Sales forecasting,Slow contact search,Slow dashboards,Slow lead lists and pipeline board,Unreliable contact imports,Workflow templates,Workflows failing silently
+Enterprise,20,9,8,9,6,19,3,19,26,9,11,25,8,6,7,4,21,6,10,13,4,10,22,27
+Mid-Market,31,16,26,27,15,35,20,26,31,21,27,36,13,15,30,29,23,10,13,27,14,37,41,46
+SMB,14,10,35,23,19,19,37,41,19,11,39,27,18,24,45,25,3,12,18,21,30,55,17,27

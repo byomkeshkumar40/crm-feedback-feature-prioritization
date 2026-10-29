@@ -1,0 +1,13 @@
+feature_id,feature_name,base_rank,median_rank,p10_rank,p90_rank,prob_top3_pct,prob_rank1_pct
+F03,Reliable CSV Import with Validation,1,1.0,1.0,3.0,96.1,65.8
+F04,Workflow Run Monitoring & Failure Alerts,2,2.0,1.0,4.0,80.6,22.2
+F07,Performance Tuning for Dashboards & Lists,3,3.0,2.0,6.0,57.6,8.1
+F08,Email & Calendar Sync Reliability,4,5.0,2.0,7.0,28.8,2.3
+F09,API & Webhook Reliability Console,5,5.0,3.0,8.0,18.6,1.1
+F01,Duplicate Detection & Bulk Merge,6,6.0,4.0,8.0,9.6,0.4
+F12,Bulk Actions & Simplified Navigation,7,7.0,4.0,8.0,5.3,0.1
+F05,Guided Workflow Builder & Templates,8,7.0,5.0,8.0,3.5,0.0
+F06,Custom & Scheduled Reports with Reliable Export,9,9.0,8.0,10.0,0.0,0.0
+F02,Lead Scoring & Smart Routing,10,10.0,9.0,10.0,0.0,0.0
+F10,"Native Integrations (Accounting, Marketing, Slack)",11,11.0,11.0,12.0,0.0,0.0
+F11,Mobile App,12,12.0,11.0,12.0,0.0,0.0

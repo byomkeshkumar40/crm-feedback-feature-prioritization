@@ -1,0 +1,11 @@
+issue_theme,theme,feature_area,category,feedback_records,unique_customers,negative_pct,high_critical_pct,n_sources,n_plans,blocking_or_risk_pct
+ui_mobile,Mobile app,User Interface,Feature Request,82,68,17.1,9.8,4,3,19.5
+wf_templates,Workflow templates,Workflow Automation,Feature Request,80,69,5.0,11.2,4,3,15.0
+rep_custom,Custom and scheduled reports,Reporting,Feature Request,76,59,11.8,19.7,4,3,22.4
+contact_dedupe,Bulk contact merge,Contact Management,Feature Request,73,63,6.8,9.6,4,3,23.3
+lead_score,Automated lead scoring,Lead Management,Feature Request,69,57,8.7,7.2,4,3,13.0
+int_native,Native integrations,Integrations,Feature Request,58,53,12.1,13.8,4,3,19.0
+int_sso,SSO and provisioning,Integrations,Feature Request,47,33,10.6,10.6,4,2,21.3
+contact_custom,Custom fields and hierarchy,Contact Management,Feature Request,41,35,19.5,9.8,4,3,17.1
+ui_bulk,Bulk actions,User Interface,Feature Request,40,36,12.5,7.5,4,3,12.5
+wf_approval,Approval steps in workflows,Workflow Automation,Feature Request,35,29,11.4,11.4,4,3,20.0

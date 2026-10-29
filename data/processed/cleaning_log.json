@@ -1,0 +1,19 @@
+{
+  "rows_in": 1500,
+  "values_normalised_by_column": {
+    "feedback_source": 30,
+    "subscription_plan": 30,
+    "customer_segment": 28,
+    "feature_area": 30,
+    "feedback_category": 30,
+    "sentiment": 30,
+    "severity": 30,
+    "customer_impact": 0
+  },
+  "missing_customer_impact_before": 12,
+  "customer_impact_imputed_as_Unknown": 12,
+  "non_iso_dates_converted": 45,
+  "theme_tag_unmatched": 0,
+  "theme_tag_ambiguous": 0,
+  "rows_out": 1500
+}

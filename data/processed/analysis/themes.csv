@@ -1,0 +1,25 @@
+issue_theme,theme,feature_area,category,feedback_records,unique_customers,negative_pct,high_critical_pct,n_sources,n_plans,blocking_or_risk_pct
+contact_import,Unreliable contact imports,Contact Management,Bug,102,86,74.5,42.2,4,3,37.3
+wf_fail,Workflows failing silently,Workflow Automation,Bug,100,78,73.0,40.0,4,3,47.0
+int_email,Email and calendar sync drops,Integrations,Integration Issue,88,74,69.3,39.8,4,3,38.6
+wf_builder,Confusing workflow builder,Workflow Automation,Usability Issue,86,72,53.5,23.3,4,3,26.7
+ui_mobile,Mobile app,User Interface,Feature Request,82,68,17.1,9.8,4,3,19.5
+wf_templates,Workflow templates,Workflow Automation,Feature Request,80,69,5.0,11.2,4,3,15.0
+lead_dup,Duplicate leads created,Lead Management,Bug,77,69,75.3,41.6,3,3,44.2
+rep_custom,Custom and scheduled reports,Reporting,Feature Request,76,59,11.8,19.7,4,3,22.4
+contact_dedupe,Bulk contact merge,Contact Management,Feature Request,73,63,6.8,9.6,4,3,23.3
+lead_score,Automated lead scoring,Lead Management,Feature Request,69,57,8.7,7.2,4,3,13.0
+int_api,API limits and webhook failures,Integrations,Integration Issue,65,55,73.8,43.1,3,3,40.0
+rep_slow,Slow dashboards,Reporting,Performance Issue,61,50,65.6,31.1,4,3,34.4
+ui_nav,Cluttered navigation,User Interface,Usability Issue,60,56,61.7,21.7,4,3,26.7
+rep_export,Broken report exports,Reporting,Bug,59,55,67.8,49.2,4,3,35.6
+int_native,Native integrations,Integrations,Feature Request,58,53,12.1,13.8,4,3,19.0
+lead_slow,Slow lead lists and pipeline board,Lead Management,Performance Issue,48,44,75.0,35.4,3,3,39.6
+int_sso,SSO and provisioning,Integrations,Feature Request,47,33,10.6,10.6,4,2,21.3
+lead_assign,Lead routing is inflexible,Lead Management,Usability Issue,45,41,48.9,22.2,4,3,26.7
+contact_search,Slow contact search,Contact Management,Performance Issue,41,37,65.9,36.6,4,3,39.0
+contact_custom,Custom fields and hierarchy,Contact Management,Feature Request,41,35,19.5,9.8,4,3,17.1
+ui_bulk,Bulk actions,User Interface,Feature Request,40,36,12.5,7.5,4,3,12.5
+ui_perf,Laggy pages,User Interface,Performance Issue,39,34,64.1,28.2,3,3,33.3
+wf_approval,Approval steps in workflows,Workflow Automation,Feature Request,35,29,11.4,11.4,4,3,20.0
+rep_forecast,Sales forecasting,Reporting,Feature Request,28,27,21.4,21.4,3,3,21.4

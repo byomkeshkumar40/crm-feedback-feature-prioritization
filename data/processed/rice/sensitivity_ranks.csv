@@ -1,0 +1,13 @@
+feature_id,feature_name,Base case,Reporting multiplier 1.5,Reporting multiplier 4.0,Reach capped at 250 accounts,Impact from High/Critical severity only,Confidence flat 0.8,Optimistic effort (low estimates),Pessimistic effort (high estimates),rank_min,rank_max
+F03,Reliable CSV Import with Validation,1,1,1,1,1,1,1,1,1,1
+F04,Workflow Run Monitoring & Failure Alerts,2,2,2,2,2,2,3,2,2,3
+F07,Performance Tuning for Dashboards & Lists,3,3,3,3,5,3,2,3,2,5
+F08,Email & Calendar Sync Reliability,4,4,4,4,6,4,4,4,4,6
+F09,API & Webhook Reliability Console,5,5,5,5,3,5,6,6,3,6
+F01,Duplicate Detection & Bulk Merge,6,6,6,7,4,6,5,5,4,7
+F12,Bulk Actions & Simplified Navigation,7,7,7,6,8,7,7,8,6,8
+F05,Guided Workflow Builder & Templates,8,8,8,8,9,8,8,7,7,9
+F06,Custom & Scheduled Reports with Reliable Export,9,9,9,9,7,9,9,9,7,9
+F02,Lead Scoring & Smart Routing,10,10,10,10,10,10,10,10,10,10
+F10,"Native Integrations (Accounting, Marketing, Slack)",11,11,11,11,11,11,11,11,11,11
+F11,Mobile App,12,12,12,12,12,12,12,12,12,12
